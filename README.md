@@ -1,2 +1,1 @@
-# codenewman.github.io
-Personal Homepage
+# 欢迎访问姜忠良的个人博客主页
